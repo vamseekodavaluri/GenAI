@@ -56,17 +56,24 @@
 
 #### Reinforcement Learning
 
-- 
-
-#### GAN
-
-![plot](./GAN.png)
-
-- Can be
-
 # What is Generative AI
 
-Generative AI generates new data based on training sample. Generative model can generate Image, Text, Audio, Videos etc. data as output. Generative AI can be considered as a superset of data
+**Generative AI** generates new data based on training sample. Generative model can generate Image, Text, Audio, Videos etc. data as output. Generative AI can be considered as a superset of data
 
-So generative AI is very huge topic
-    -
+So generative AI is very huge topic, can be divided into 2 segments
+    - Generative Image Model
+    - Generative Language Model - LLM is part of Generative Language Model
+
+### GAN Architecture
+
+![plot](./Images/GAN.png)
+
+## Where Does Generative Exists?
+
+- Machine Learning is the Subset of Artificial Intelligence
+- Deep Learning is the subset of Machine Learning
+- Generative AI is the subset of Deep Learning
+
+![plot](./Images/GenAIArch.webp)
+
+
