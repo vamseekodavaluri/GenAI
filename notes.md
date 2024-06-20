@@ -64,10 +64,6 @@ So generative AI is very huge topic, can be divided into 2 segments
     - Generative Image Model
     - Generative Language Model - LLM is part of Generative Language Model
 
-### GAN Architecture
-
-![plot](./Images/GAN.png)
-
 ## Where Does Generative Exists?
 
 - Machine Learning is the Subset of Artificial Intelligence
@@ -76,4 +72,11 @@ So generative AI is very huge topic, can be divided into 2 segments
 
 ![plot](./Images/GenAIArch.webp)
 
+#### Generative AI  is a Superset
+### GENAI can be broadly divided into
+#### - GAN
+#### - LLM
 
+### GAN Architecture
+
+![plot](./Images/GAN.png)
