@@ -30,7 +30,7 @@
 - Use Cases: Function approximation, classification, regression, and more.
 - Basic Idea: Feed input data into the network, process through hidden layers, and get output.
 
-### Deep Neural Netowrk (DNN)
+#### Deep Neural Netowrk (DNN)
 
 - Description: A subtype of ANNs with multiple hidden layers between the input and output layers. The “deep” in DNN refers to the depth of the network.
 - Use Cases: Complex tasks like image and speech recognition.
@@ -51,6 +51,8 @@
 - Use Cases: Sequence prediction, time series forecasting, natural language processing.
 
 - Basic Idea: Has memory from previous steps to inform the current step. This makes them suited for tasks where temporal dynamics and sequence matter.
+
+#### Out of these, CNNs and RNNs are specialized types of DNNs. While CNNs are designed for spatial data like images, RNNs are designed for sequential data like time series or sentences. LLMs, on the other hand, focus on linguistic data and can be built upon architectures like RNNs or transformers (as in the case of GPT and BERT).
 
 #### Reinforcement Learning
 
